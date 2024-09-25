@@ -21,6 +21,7 @@ In this project, I analyzed global video game sales using Tableau. Key steps inc
     - Plotted Genre on the columns and Global Sales on the rows.
     - Sorted the genres and assigned distinct colors for clearer comparisons.
 
+![Genre-wise_Global_Sales](https://github.com/user-attachments/assets/11746004-5654-448a-983c-96ee68181b7f)
 
 4. **Dashboard Creation**:
     - Combined both visualizations into a cohesive dashboard.
