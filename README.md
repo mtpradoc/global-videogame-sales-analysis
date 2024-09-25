@@ -6,7 +6,7 @@ In this project, I analyzed global video game sales using Tableau. Key steps inc
 
 1. **Data Exploration**:
     - Investigated dimensions and measures from the dataset, focusing on Global Sales as the primary metric.
-      ![dataset video games](images/vgsales_1.jpg)
+      ![dataset video games](/vgsales_1.jpg)
 
 3. **Visualization 1**: Global Sales Over Time by Genre
     - Added Global Sales to the rows and Year to the columns to visualize sales trends.
