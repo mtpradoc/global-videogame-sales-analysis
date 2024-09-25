@@ -1,6 +1,6 @@
 # Global Video Game Sales Analysis #
 
-**Data Source**: Imported from a CSV file on Kaggle.
+**Data Source**: Imported from a CSV file on [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales).
 
 In this project, I analyzed global video game sales using Tableau. Key steps included:
 
