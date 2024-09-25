@@ -28,3 +28,5 @@ In this project, I analyzed global video game sales using Tableau. Key steps inc
     - Renamed worksheets for clarity and customized the layout for better user experience.
 
 ![dashboard](https://github.com/user-attachments/assets/71f21d7d-15f1-4c68-a028-8d7ec01cb199)
+
+5. **Tableau Public Link**: [Global Video Game Sales Analysis](https://public.tableau.com/views/GlobalVideoGameSalesAnalysis_17273036207220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
