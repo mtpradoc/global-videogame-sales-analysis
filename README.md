@@ -26,3 +26,5 @@ In this project, I analyzed global video game sales using Tableau. Key steps inc
 4. **Dashboard Creation**:
     - Combined both visualizations into a cohesive dashboard.
     - Renamed worksheets for clarity and customized the layout for better user experience.
+
+![dashboard](https://github.com/user-attachments/assets/71f21d7d-15f1-4c68-a028-8d7ec01cb199)
